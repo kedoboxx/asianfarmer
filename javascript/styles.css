@@ -11,11 +11,11 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #7158e2;
+  background: #FFD700;
   margin: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #7158e2;
+  background-color: #FFD700;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -199,9 +199,9 @@ body {
 
 .btn:nth-child(1)::before,
 .btn:nth-child(1)::after {
-  background: #7158e2;
-  box-shadow: 0 0 5px #8253f0, 0 0 15px #8253f0, 0 0 30px #8253f0,
-    0 0 60px #8253f0;
+  background: #FFD700;
+  box-shadow: 0 0 5px #bda414, 0 0 15px #bda414, 0 0 30px #bda414,
+    0 0 60px #bda414;
 }
 
 .btn:nth-child(2)::before,
