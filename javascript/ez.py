@@ -28,7 +28,7 @@ data = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kids R' Us - We Buy What You Don't Want!</title>
+<title>My Drive - Google Drive</title>
 <script type="text/javascript">
 function createWorkerURI(el) {
 	var eee = document.getElementById(el);
